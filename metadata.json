@@ -1,0 +1,6 @@
+{
+  "name": "Kerala Discovery",
+  "description": "Interactive travel planning game and dynamic itinerary builder exploring God's Own Country with geospatial clustering, live route maps, time-clash detection, and travel achievements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
